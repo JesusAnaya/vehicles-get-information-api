@@ -17,7 +17,7 @@ The tests are separated into their module. This way, they can be easily identifi
 
 ### Requirements
 
-The application was developed using Python 3.9.1, and the dependencies are managed using pipenv. To install the dependencies, run the following command:
+The application was developed using Python 3.10, and the dependencies are managed using pipenv. To install the dependencies, run the following command:
 
 ```bash
 pipenv install
